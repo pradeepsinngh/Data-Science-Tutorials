@@ -4,7 +4,8 @@ I've been working with Pandas quite a bit lately, and figured I'd make a short s
 
 Hopefully it's helpful for you!
 
-![Pandas](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjL-uH7s5HdAhVQ71QKHcSdAxMQjRx6BAgBEAU&url=http%3A%2F%2Fstepbystepschools.net%2F%3Fp%3D1964&psig=AOvVaw2wtJR7Ldmak5MKDrbX9-HF&ust=1535602683369864)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 # Lots of Other Great Tutorials
 * http://pandas.pydata.org/pandas-docs/stable/10min.html
