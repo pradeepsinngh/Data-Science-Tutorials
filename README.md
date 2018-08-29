@@ -4,8 +4,7 @@ I've been working with Pandas quite a bit lately, and figured I'd make a short s
 
 Hopefully it's helpful for you!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+![Pandas](https://github.com/pradeepsinngh/Pandas-Tutorial/blob/master/Images/pandas.jpg)
 
 # Lots of Other Great Tutorials
 * http://pandas.pydata.org/pandas-docs/stable/10min.html
