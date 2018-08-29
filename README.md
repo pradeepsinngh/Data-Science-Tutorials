@@ -1,6 +1,6 @@
 # Pandas-Tutorial
 
-I've been working with Pandas quite a bit lately, and figured I'd make a short summary of the most important and helpful functions in the library. 
+I've been working with Pandas quite a bit lately, and figured I'd make a short summary of the most important and helpful functions in the library.
 
 Hopefully it's helpful for you!
 
