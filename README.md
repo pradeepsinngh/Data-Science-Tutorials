@@ -15,4 +15,4 @@ Hopefully it's helpful for you!
 * https://seaborn.pydata.org/
 * https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
 
-**P.S.** Feel free to drop any suggestions and comments at pradeepsingh7890@live.com, You can find me at [pradeepsingh.xyz](http://www.pradeepsingh.xyz/)
+**P.S.** Feel free to drop any suggestions/comments at pradeepsingh7890@live.com. You can find me at [pradeepsingh.xyz](http://www.pradeepsingh.xyz/)
