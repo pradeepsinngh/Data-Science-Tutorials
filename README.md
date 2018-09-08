@@ -20,3 +20,5 @@ Hopefully it's helpful for you!
 * https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
 
 **P.S.** Feel free to drop any suggestions/comments at pradeepsingh7890@live.com. You can find me at [pradeepsingh.xyz](http://www.pradeepsingh.xyz/)
+
+![Data Science Tutorials](https://github.com/pradeepsinngh/Data-Science-Tutorials/blob/master/python-packages.png)
