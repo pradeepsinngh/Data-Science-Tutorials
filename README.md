@@ -4,6 +4,7 @@ I've been working on few data science projects quite a bit lately, and figured I
 
 1. [Pandas Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Pandas%20Tutorial)
 2. [Seaborn Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Seaborn%20Tutorial)
+3. [NumPy Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Numpy%20Tutorial)
 
 Hopefully it's helpful for you!
 
