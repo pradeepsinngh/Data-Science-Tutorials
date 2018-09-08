@@ -6,6 +6,10 @@ I've been working on few data science projects quite a bit lately, and figured I
 2. [Seaborn Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Seaborn%20Tutorial)
 3. [NumPy Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Numpy%20Tutorial)
 
+More Tutorials to come:
+- Scipy
+- Matplotlib
+
 Hopefully it's helpful for you!
 
 
