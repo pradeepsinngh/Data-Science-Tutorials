@@ -5,7 +5,7 @@ I've been working on few data science projects quite a bit lately, and figured I
 Hopefully it's helpful for you!
 
 
-# Lots of Other Great Tutorials
+## Lots of Other Great Tutorials
 * http://pandas.pydata.org/pandas-docs/stable/10min.html
 * https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 * http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
@@ -15,4 +15,4 @@ Hopefully it's helpful for you!
 * https://seaborn.pydata.org/
 * https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
 
-P.S. Feel free to drop any suggestions and comments at pradeepsingh7890@live.com. Find me at [pradeepsingh.xyz](http://www.pradeepsingh.xyz/)
+**P.S.** Feel free to drop any suggestions and comments at pradeepsingh7890@live.com, You can find me at [pradeepsingh.xyz](http://www.pradeepsingh.xyz/)
