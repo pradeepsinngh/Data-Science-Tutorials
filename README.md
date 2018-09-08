@@ -1,10 +1,9 @@
-# Pandas-Tutorial
+# Data Science Tutorials
 
-I've been working with Pandas quite a bit lately, and figured I'd make a short summary of the most important and helpful functions in the library.
+I've been working on few data science projects quite a bit lately, and figured I'd make a short tutorials on the most important and helpful library in Python for data science. So, here I'm. :)
 
 Hopefully it's helpful for you!
 
-![Pandas](https://github.com/pradeepsinngh/Pandas-Tutorial/blob/master/Images/pandas.jpg)
 
 # Lots of Other Great Tutorials
 * http://pandas.pydata.org/pandas-docs/stable/10min.html
@@ -13,3 +12,7 @@ Hopefully it's helpful for you!
 * https://www.dataquest.io/blog/pandas-python-tutorial/
 * https://drive.google.com/file/d/0ByIrJAE4KMTtTUtiVExiUGVkRkE/view
 * https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
+* https://seaborn.pydata.org/
+* https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
+
+P.S. Feel free to drop any suggestions and comments at pradeepsingh7890@live.com. Find me at [pradeepsingh.xyz](http://www.pradeepsingh.xyz/)
