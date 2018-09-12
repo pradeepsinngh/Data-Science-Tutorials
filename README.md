@@ -5,6 +5,7 @@ I've been working on few data science projects quite a bit lately, and figured I
 1. [Pandas Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Pandas%20Tutorial)
 2. [Seaborn Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Seaborn%20Tutorial)
 3. [NumPy Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Numpy%20Tutorial)
+4. [Python Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Python%20Tutorial)
 
 More tutorials to come:
 - Scipy
