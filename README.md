@@ -10,7 +10,11 @@ I've been working on few data science projects quite a bit lately, and figured I
 More tutorials to come:
 - Scipy
 - Matplotlib
-- 
+- StatsModels (for statistical data analysis)
+- Matplotlib
+- Plotly
+- Scikit-learn
+- Scrapy (for scraping data)
 
 Hopefully it's helpful for you!
 
