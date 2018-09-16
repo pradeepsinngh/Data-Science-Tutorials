@@ -15,6 +15,7 @@ More tutorials to come:
 - Plotly
 - Scikit-learn
 - Scrapy (for scraping data)
+- BeautifulSoup
 
 Hopefully it's helpful for you!
 
