@@ -7,7 +7,7 @@ I've been working on few data science projects quite a bit lately, and figured I
 3. [NumPy Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Numpy%20Tutorial)
 4. [Python Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Python%20Tutorial)
 
-More tutorials to come:
+More tutorials to come:-
 - Scipy
 - Matplotlib
 - StatsModels (for statistical data analysis)
