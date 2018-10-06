@@ -11,7 +11,6 @@ More tutorials to come:-
 - Scipy
 - Matplotlib
 - StatsModels (for statistical data analysis)
-- Matplotlib
 - Plotly
 - Scikit-learn
 - Scrapy (for scraping data)
