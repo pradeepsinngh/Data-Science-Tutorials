@@ -19,20 +19,27 @@ In this tutorial, you will learn how to handle missing data for machine learning
    - Try to understand significance of each feature with respect to the problem.
         
 2. **Step 2: Check Missing Values**
-   - Use 
+   - Use pandas isnull() function on data frame/ column.
+   ```
+   # count the number of NaN values in each column
+   df.isnull().sum()
+   ```
 
 3. **Step 3: Mark missing values**
-   - Wee mark missing values as NaN
+   - We mark missing values as NaN
    - Values with a NaN value are ignored from operations like sum, count, etc.
-   - We can mark values as NaN easily with the Pandas DataFrame by using the replace() function on a subset of the columns we are interested in.
+   - Use the replace() function on columns
    ```
    # mark zero values as missing or NaN
    df[[1,2,3]] = df[[1,2,3]].replace(0, np.NaN)
    ```
 4. **Step 4: Remove Missing Values**
+   - 
 
 5. **Step 5: Impute Missing Values**
+   - 
 
 6. **Step 6: Use different algorithms that support missing values.**
+   - 
 
 
