@@ -33,9 +33,16 @@ In this tutorial, you will learn how to handle missing data for machine learning
    # mark zero values as missing or NaN
    df[[1,2,3]] = df[[1,2,3]].replace(0, np.NaN)
    ```
+   
 4. **Step 4: Remove Missing Values**
-   - 
-
+   - Simplest strategy for handling missing data is to remove records that contain a missing value.
+   - Creating a new Pandas DataFrame with the rows containing missing values removed.
+   - Use dropna() function in pandas. that can be used to drop either columns or rows with missing data.
+   ```
+   # keep the DataFrame with valid entries in the same variable.
+   df.dropna(inplace=True)
+   ```
+   
 5. **Step 5: Impute Missing Values**
    - 
 
