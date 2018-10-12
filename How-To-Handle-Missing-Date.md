@@ -13,19 +13,20 @@ Data can have missing values for a number of reasons such as: observations that 
 
 In this tutorial, you will learn how to handle missing data for machine learning with Python. Let’s get started.
 
-1. Step 1: Preview the data
+1. **Step 1: Preview the Data**
    - Expolore the data and see if you can observe some pattern. 
    - Learn how different features correlate with each other. 
    - Try to understand significance of each feature with respect to the problem.
         
-2. Step 2: Check if there are missing values or not?
+2. **Step 2: Check Missing Values**
 
-3. Step 3: Mark missing values
 
-4. Step 4: Remove Missing Values
+3. **Step 3: Mark missing values**
 
-5. Step 5: If can't remove, impute Missing Values
+4. **Step 4: Remove Missing Values**
 
-6. Step 6: If can't impute, use algorithms that support missing values.
+5. **Step 5: Impute Missing Values**
+
+6. **Step 6: Use different algorithms that support missing values.**
 
 
