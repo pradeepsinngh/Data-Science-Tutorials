@@ -44,7 +44,18 @@ In this tutorial, you will learn how to handle missing data for machine learning
    ```
    
 5. **Step 5: Impute Missing Values**
-   - 
+   - Imputing refers to using a model to replace missing values.
+   - There are many options we could consider when replacing a missing value, for example:
+     - A constant value that has meaning within the domain, such as 0, distinct from all other values.
+     - A value from another randomly selected record.
+     - A mean, median or mode value for the column.
+     - A value estimated by another predictive model.
+
+Any imputing performed on the training dataset will have to be performed on new data in the future when predictions are needed from the finalized model. This needs to be taken into consideration when choosing how to impute the missing values.
+
+For example, if you choose to impute with mean column values, these mean column values will need to be stored to file for later use on new data that has missing values.
+
+Pandas provides the fillna() function for replacing missing values with a specific value.
 
 6. **Step 6: Use different algorithms that support missing values.**
    - 
