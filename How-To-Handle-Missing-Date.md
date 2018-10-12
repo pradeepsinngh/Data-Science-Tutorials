@@ -61,3 +61,7 @@ In this tutorial, you will learn how to handle missing data for machine learning
    - Not all algorithms fail when there is missing data.
    - There are algorithms that can be made robust to missing data, such as k-Nearest Neighbors that can ignore a column from a distance measure when a value is missing.
    - There are algorithms that can use the missing value as a unique and different value when building the predictive model, such as classification and regression trees.
+   
+   Follow this jupyter notebook for example -- 
+
+That's all folks!
