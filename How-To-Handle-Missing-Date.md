@@ -50,14 +50,14 @@ In this tutorial, you will learn how to handle missing data for machine learning
      - A value from another randomly selected record.
      - A mean, median or mode value for the column.
      - A value estimated by another predictive model.
-
-Any imputing performed on the training dataset will have to be performed on new data in the future when predictions are needed from the finalized model. This needs to be taken into consideration when choosing how to impute the missing values.
-
-For example, if you choose to impute with mean column values, these mean column values will need to be stored to file for later use on new data that has missing values.
-
-Pandas provides the fillna() function for replacing missing values with a specific value.
+   - Pandas provides the fillna() function for replacing missing values with a specific value.
+   
+   ```
+   # fill missing values with mean column values
+   df.fillna(df.mean(), inplace=True)
+   ```
 
 6. **Step 6: Use different algorithms that support missing values.**
-   - 
-
-
+   - Not all algorithms fail when there is missing data.
+   - There are algorithms that can be made robust to missing data, such as k-Nearest Neighbors that can ignore a column from a distance measure when a value is missing.
+   - There are algorithms that can use the missing value as a unique and different value when building the predictive model, such as classification and regression trees.
