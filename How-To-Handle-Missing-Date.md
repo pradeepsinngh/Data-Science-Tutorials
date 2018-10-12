@@ -17,6 +17,7 @@ Step 1: Preview the data
         -*Expolore the data and see if you can observe some pattern. 
         - Learn how different features correlate with each other. 
         - Try to understand significance of each feature with respect to the problem.*
+        
 Step 2: Check if there are missing values or not?
 Step 3: Mark missing values
 Step 4: Remove Missing Values
