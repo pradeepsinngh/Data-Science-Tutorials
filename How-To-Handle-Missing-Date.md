@@ -1,6 +1,8 @@
 ## Tutorial on How to Handle Missing Data:
 
-Real-world data often has missing values. For example imagine you have a dataset of students (boys & girls) in a college. Unfortunately, on previewing the data you find few students height and weight are missing. Now let us ask some questions to ourselves like
+Real-world data often has missing values. For example imagine you have a dataset containing list students (boys & girls) in a college with various attributes (height, weight, age etc.). 
+
+Unfortunately, on previewing the data you find few students height and weight are missing. Now let us ask some questions to ourselves like:
 
   - Can you accurately find a way out off handling the missing heights/ weights?
   - Should one just pretend as if the missing instances isn’t missing.?
@@ -9,14 +11,16 @@ Real-world data often has missing values. For example imagine you have a dataset
 
 Data can have missing values for a number of reasons such as: observations that were not recorded and data corruption. Handling missing data is important as many machine learning algorithms do not support data with missing values.
 
-In this tutorial, you will learn how to handle missing data for machine learning with Python.
+In this tutorial, you will learn how to handle missing data for machine learning with Python. Let’s get started.
 
-Specifically, after goinf through this tutorial you will know:
-
-    How to marking invalid or corrupt values as missing in your dataset.
-    How to remove rows with missing data from your dataset.
-    How to impute missing values with mean values in your dataset.
-
-Let’s get started.
+Step 1: Preview the data
+        *- Expolore the data and see if you can observe some pattern. 
+        - Learn how different features correlate with each other. 
+        - Try to understand significance of each feature with respect to the problem.*
+Step 2: Check if there are missing values or not?
+Step 3: Mark missing values
+Step 4: Remove Missing Values
+Step 5: If can't remove, impute Missing Values
+Step 6: If can't impute, use algorithms that support missing values.
 
 
