@@ -2,7 +2,11 @@
 
 In the age of Big Data, we are tempted to deal with bias by collecting more data. After all, we know that a census will give us perfect estimates; shouldn't a very large sample give almost perfect estimates regardless of the sampling technique?
 
-## Probability Sampling
+## Why Probability Sampling
+
+Probability sampling enables us to quantify our uncertainty about an estimation or prediction. 
+
+It is only through this precision that we can conduct inference and hypothesis testing. Be wary when anyone gives you p-values or confidence levels without a proper explanation of their sampling techniques.
 
 Unlike convenience sampling, probability sampling allows us to assign a precise probability to the event that we draw a particular sample.
 
