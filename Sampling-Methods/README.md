@@ -25,16 +25,52 @@ P(AB)= P(CD)= …= P(DF)= 1/15
 
 We can also use this chance mechanism to answer other questions about the composition of the sample. For example:
 ```
-P(A in sample)=5/15=1/3
+P(A in sample)= 5/15= 1/3
 ```
 Since 5 out of 15 of the possible samples listed above contain A.
 
- ###Two alternative methods of probability sampling: cluster sampling and stratified sampling
+### Two alternative methods of probability sampling: Cluster sampling and Stratified sampling
 
-### Cluster sampling:
+## Cluster sampling:
 In cluster sampling, we divide the population into clusters. Then, we use SRS to select clusters at random instead of individuals.
 
-As an example, suppose we take our population of 6
-individuals and we pair each of them up: (A,B)(C,D)(E,F) to form 3 clusters of 2 individuals. Then, we use SRS to select one cluster to produce a sample of size 2.
+As an example, suppose we take our population of 6 individuals and we pair each of them up: (A,B)(C,D)(E,F) to form 3 clusters of 2 individuals. Then, we use SRS to select one cluster to produce a sample of size 2.
 
-### Stratified sampling
+As before, we can compute the probability that A is in our sample:
+```
+P(A in sample)= P(AB drawn)= 1/3
+```
+Similarly the probability that any particular person appears in our sample is 1/3. Note that this is the same as our SRS. 
+
+However, we see differences when we look at the samples themselves. For example, in a SRS the chance of getting AB is the same as the chance of getting AC: 1/15. However, with this cluster sampling scheme:
+```
+P(AB)= 1/3
+P(AC)= 0
+```
+Since A and C can never appear in the same sample if we only select one cluster.
+
+Cluster sampling is still probability sampling since we can assign a probability to each potential sample. However, the resulting probabilities are different than using a SRS depending on how the population is clustered.
+
+### Why use cluster sampling? 
+Cluster sampling is most useful because it makes sample collection easier. For example, it is much easier to poll towns of 100 people each than to poll thousands of people distributed across the entire US. This is the reason why many polling agencies today use forms of cluster sampling to conduct surveys.
+
+The main **downside of cluster sampling** is that it tends to produce greater variation in estimation. This typically means that we take larger samples when using cluster sampling.
+
+
+## Stratified sampling
+In stratified sampling, we divide the population into strata, and then produce one simple random sample per strata. In both cluster sampling and stratified sampling we split the population into groups; in cluster sampling we use a single SRS to select groups whereas in stratified sampling we use multiple SRS's, one for each group.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
