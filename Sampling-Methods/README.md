@@ -86,5 +86,10 @@ However, stratified sampling is sometimes more difficult to accomplish because w
 
 
 
+# Takeaways
 
+Before accepting the results of a data analysis, it pays to carefully inspect the quality of the data. In particular, we must ask the following questions:
+- Is the data a census (does it include the entire population of interest)?
+- If the data is a sample, how was the sample collected? To properly conduct inference, the sample should have been collected according to a completely described probability sampling method.
+- What changes were made to the data before producing results? Do any of these changes affect the quality of the data?
 
