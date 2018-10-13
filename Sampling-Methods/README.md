@@ -74,11 +74,11 @@ Again, we can compute the probability that A is in our sample:
 ```
 P(A in sample)= P(A selected from Strata 1)= 1/4
 ```
-However: since A and B cannot appear in the same sample.
-```P(AB)=0```
+However: ```P(AB)=0``` since A and B cannot appear in the same sample.
 
+As you may have figured out, stratified sampling can perhaps be called the proper way to conduct quota sampling. It allows the researcher to ensure that subgroups of the population are well-represented in the sample without using human judgement to select the individuals in the sample. This can often result in less variation in estimation. 
 
-
+However, stratified sampling is sometimes more difficult to accomplish because we sometimes don't know how large each strata is.
 
 
 
