@@ -61,11 +61,21 @@ The main **downside of cluster sampling** is that it tends to produce greater va
 In stratified sampling, we divide the population into strata, and then produce one simple random sample per strata. In both cluster sampling and stratified sampling we split the population into groups; in cluster sampling we use a single SRS to select groups whereas in stratified sampling we use multiple SRS's, one for each group.
 
 
-
-
-
-
-
+We can divide our population of 6 individuals into the following strata:
+```
+Strata 1: {A,B,C,D}
+Strata 2: {E,F}
+```
+We use an SRS to select one individual from each strata to produce a sample of size 2. This gives us the following possible samples:
+```
+(A,E) (A,F) (B,E) (B,F) (C,E) (C,F) (D,E) (D,F)
+```
+Again, we can compute the probability that A is in our sample:
+```
+P(A in sample)= P(A selected from Strata 1)= 1/4
+```
+However: since A and B cannot appear in the same sample.
+```P(AB)=0```
 
 
 
