@@ -30,6 +30,6 @@ Hopefully it's helpful for you!
 * https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
 
 ## Comments
-**P.S.** Feel free to drop any suggestions/comments at pradeepsingh7890@live.com. You can find me at [pradeepsingh.xyz](http://www.pradeepsingh.xyz/) OR [LinedkIn](https://www.linkedin.com/in/pradeepsinngh/)
+**P.S.** Feel free to drop any suggestions/comments at pradeepsingh7890@live.com. You can find me at [pradeepsingh.xyz](http://pradeepsinngh.github.io) OR [LinedkIn](https://www.linkedin.com/in/pradeepsinngh/)
 
 ![Data Science Tutorials](https://github.com/pradeepsinngh/Data-Science-Tutorials/blob/master/python-packages.png)
